@@ -33,20 +33,3 @@ Desktop.ini
 *.log
 npm-debug.log*
 App/*.log
-
-# Config generated files
-config/icon/icon.ico
-config/icon/icon.png
-
-
-
-docs/*
-.superpowers
-.florde
-
-#Temporäres
-Temporäre Sachen/*
-
-# Git worktrees
-.worktrees
-worktrees
