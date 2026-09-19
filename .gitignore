@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+App/node_modules/
+
+# Build output
+dist/
+App/dist/
+App_Installer/*.exe
+Website/App_Download/*.exe
+*.exe
+App/build-output/
+out/
+App/out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+App/*.log
+
+# Config generated files
+config/icon/icon.ico
+config/icon/icon.png
+
+
+
+docs/*
+.superpowers
+.florde
+
+#Temporäres
+Temporäre Sachen/*
+
+# Git worktrees
+.worktrees
+worktrees
