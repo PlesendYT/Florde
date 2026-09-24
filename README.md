@@ -1,3 +1,5 @@
+# Florde is unfortunately being discontinued
+
 # Florde
 
 > **Don't just trust, Understand.**
